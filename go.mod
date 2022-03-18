@@ -55,7 +55,7 @@ require (
 	github.com/mavricknz/asn1-ber v0.0.0-20151103223136-b9df1c2f4213 // indirect
 	github.com/mavricknz/ldap v0.0.0-20160227184754-f5a958005e43
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b // indirect
-	github.com/miekg/dns v1.0.14
+	github.com/miekg/dns v1.1.25
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/nats-io/nats-server/v2 v2.3.4 // indirect
